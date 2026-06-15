@@ -1,0 +1,6 @@
+{
+  "name": "WashBook SaaS",
+  "description": "An all-in-one Car and Bike Wash SaaS platform enabling seamless booking, subscription plan management, real-time tracking, automated invoicing, and business analytics with simulated offline synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
